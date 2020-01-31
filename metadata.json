@@ -1,6 +1,6 @@
 {
   "name": "p-pbg_ntp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Alexandre",
   "summary": "Example module to manage NTP",
   "license": "Apache-2.0",
