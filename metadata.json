@@ -1,12 +1,12 @@
 {
   "name": "p-pbg_ntp",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": "Alexandre",
   "summary": "Example module to manage NTP",
   "license": "Apache-2.0",
   "source": "https://github.com/alex-fo/Puppet_ntp.git",
   "project_page": "https://github.com/alex-fo/Puppet_ntp.git",
-  "tags": ["p-ntp"],
+  "tags": ["ntp"],
   "dependencies": [
     {"name":"puppetlabs/stdlib",
       "version_requirement":">= 4.17.0 < 5.0.0"}
